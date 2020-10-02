@@ -133,12 +133,29 @@ body {
 	justify-content: space-evenly;
 	
 }
+.img1{
+	text-align: center;
+}
+.img2{
+	text-align: center;
+}
+.img3{
+	text-align: center;
+}
 .proimgs2{
 	display: flex;
 	justify-content: space-evenly;
 	
 }
-
+.img4{
+	text-align: center;
+}
+.img5{
+	text-align: center;
+}
+.img6{
+	text-align: center;
+}
 ol, ul {
 	list-style: none;
 	display: flex;
