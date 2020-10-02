@@ -93,14 +93,19 @@ a:hover{
 	/* margin:10px; */
 	width: 80%;
 	height: 350px;
+	margin:0 auto;
 	justify-content: center;
 	align-content: center;
+	/* border-radius: 20px; */
 	/* flex-direction: column; */
 	/* margin:40px,40px;
 	padding: 40px;40px; */
 
 	/* background-size: contain;  */
 	
+}
+#center{
+	border-radius: 10px;
 }
 .project{
 	position: absolute;
